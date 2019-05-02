@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix-Starter-DotNetFramework.Api", "Matrix-Starter-DotNetFramework\Matrix-Starter-DotNetFramework.Api.csproj", "{7EB676E3-A540-4989-A778-FC99897CCEEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix-Starter-DotNetFramework.Tests", "Matrix-Starter-DotNetFramework.Tests\Matrix-Starter-DotNetFramework.Tests.csproj", "{A705B3CC-04F6-4955-ACB4-49CC3EEB15AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EB676E3-A540-4989-A778-FC99897CCEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB676E3-A540-4989-A778-FC99897CCEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB676E3-A540-4989-A778-FC99897CCEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB676E3-A540-4989-A778-FC99897CCEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A705B3CC-04F6-4955-ACB4-49CC3EEB15AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A705B3CC-04F6-4955-ACB4-49CC3EEB15AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A705B3CC-04F6-4955-ACB4-49CC3EEB15AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A705B3CC-04F6-4955-ACB4-49CC3EEB15AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCEADBD5-1481-4DAB-AC7C-2F81EB686D51}
+	EndGlobalSection
+EndGlobal
